@@ -1,8 +1,7 @@
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Módulo 5 - Base de Datos](https://img.shields.io/badge/Módulo_5-Base_de_Datos-003B5C?style=for-the-badge)
-![20 Consultas SQL](https://img.shields.io/badge/20-Consultas_SQL-success?style=for-the-badge)
+![Consultas SQL](https://img.shields.io/badge/Consultas_SQL-success?style=for-the-badge)
 ![Kodigo](https://img.shields.io/badge/Kodigo-Bootcamp-blueviolet?style=for-the-badge)
 
 </div>
